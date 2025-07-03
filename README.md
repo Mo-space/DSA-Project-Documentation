@@ -33,6 +33,7 @@ The primary source of data used for this project was in an xlsx. format, given b
 
 
 ### How to access file
+- First, click the download button at the top right corner of the view page which is right above the view raw file.
 - Click on the Excel file to open, explore the dataset.
 - Locate the Dashboard sheet with interactive visuals and enhanced insights.
 - Filter by category to customize to your view.
