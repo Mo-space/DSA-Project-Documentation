@@ -28,7 +28,7 @@ The primary source of data used for this project was in an xlsx. format, given b
 - Interactive dashboards to display insight analysis
 
 ### Files included
-- [Amazon_Product_Review_Analysis_Report[1].xlsx](./Amazon_Product_Review_Analysis_Report[1]), which contains a cleaned dataset with columns for product_id, product_name, categories, discount percentages, discounted prices, actual prices, discount range buckets, ratings, reviews, reviews_count etc. It also contains pivot tables of summarised tables and dashboards for enhanced analysis.
+- Amazon_Product_Review_Analysis_Report[1].xlsx, which contains a cleaned dataset with columns for product_id, product_name, categories, discount percentages, discounted prices, actual prices, discount range buckets, ratings, reviews, reviews_count etc. It also contains pivot tables of summarised tables and dashboards for enhanced analysis.
 
 
 ### How to access file
