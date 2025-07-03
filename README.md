@@ -29,7 +29,7 @@ The primary source of data used for this project was in an xlsx. format, given b
 
 ### Files included
 - Amazon Product Review Analysis Report.xlsx, which contains a cleaned dataset with columns for product_id, product_name, categories, discount percentages, discounted prices, actual prices, discount range buckets, ratings, reviews, reviews_count etc. It also contains pivot tables of summarised tables and dashboards for enhanced analysis.
-## Note: The file is too big for GitHub to view, but no worries. Click here to download [Donwload Excel file](./Amazon%20Product%20Review%20Analysis%20Report.xlsx)
+### Note: The file is too big for GitHub to view, but no worries. Click here to download [Donwload Excel file](./Amazon%20Product%20Review%20Analysis%20Report.xlsx)
 
 
 ### How to access file
